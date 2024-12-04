@@ -1,0 +1,1 @@
+If the delta between 2 outcomes is less than 30%, then buy straddles to capitalize off of increased implied probability
